@@ -1,0 +1,15 @@
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\bin\Debug\net6.0\TrigonometrySemesterProject.exe
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\bin\Debug\net6.0\TrigonometrySemesterProject.deps.json
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\bin\Debug\net6.0\TrigonometrySemesterProject.runtimeconfig.json
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\bin\Debug\net6.0\TrigonometrySemesterProject.dll
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\bin\Debug\net6.0\TrigonometrySemesterProject.pdb
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.csproj.AssemblyReference.cache
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.AssemblyInfoInputs.cache
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.AssemblyInfo.cs
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.csproj.CoreCompileInputs.cache
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.dll
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\refint\TrigonometrySemesterProject.dll
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.pdb
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\TrigonometrySemesterProject.genruntimeconfig.cache
+C:\Users\anna\OneDrive\Repos\TrigonometrySemesterProject\obj\Debug\net6.0\ref\TrigonometrySemesterProject.dll
